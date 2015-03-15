@@ -1,25 +1,24 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Day 1"
 date:   2015-03-15 09:39:03
-categories: jekyll update
+categories: days
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+* Create a [Github][github] account (free)
+     * Github is a place to save your code online. It makes it easier to share projects and work together with other people on projects.
+     * Git is a version control system that makes it easy to track your changes and work with other people on projects.
+* Create a [cloud 9][c9] account (free)
+    * make sure to use your github credentials
+    * Cloud 9 is a free IDE in the browser. Don't know what an IDE is?... google it.
+* Create a [Codeschool][codeschool]
+    * Codeschool offers a lot of tutorials and excersizes for you to work through. It's focus is on building websites. They have a few free tutorials that you can start out with but eventually you will want to move to the paid tier.
+* Download Sublime (free)
+    * Sublime is a text editor that has a lot of useful features that make it easier for editing code.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+After you have completed these steps I recommend you start a tutorial in codeschool. 
 
-Jekyll also offers powerful support for code snippets:
+We will also be creating a one page website in github pages.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+[github]:   https://github.com
+[codeschool]:   https://codeschool.com
+[c9]:  https://c9.io
