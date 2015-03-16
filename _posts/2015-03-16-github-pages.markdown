@@ -10,9 +10,9 @@ What I want you to do is create a one page html file with some very basic conten
 
 * Log into github 
     * create a repository with the name \<username\>.github.io
-    * Copy the git url (this is a string that looks something like git@github.com:owner)
+       * For example: spaceotterinspace.github.io
 * Log into cloud 9 with your github username
-   * Create a new project by cloning from an existing repository. Paste the url that you copied from github.
+   * Choose the repository with the name you just created and clone to edit.
    * Select html5
 * create a file called index.html
 * put some html in here
