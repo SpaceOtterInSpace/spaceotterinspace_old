@@ -11,9 +11,7 @@ categories: days
     * make sure to use your github credentials
     * Cloud 9 is a free IDE in the browser. Don't know what an IDE is?... google it.
 * Create a [Codeschool][codeschool]
-    * Codeschool offers a lot of tutorials and excersizes for you to work through. It's focus is on building websites. They have a few free tutorials that you can start out with but eventually you will want to move to the paid tier.
-* Download Sublime (free)
-    * Sublime is a text editor that has a lot of useful features that make it easier for editing code.
+    * Codeschool offers a lot of tutorials and exercises for you to work through. It's focus is on building websites. They have a few free tutorials that you can start out with but eventually you will want to move to the paid tier.
 
 After you have completed these steps I recommend you start a tutorial in codeschool. 
 

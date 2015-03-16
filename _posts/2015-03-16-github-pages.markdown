@@ -16,7 +16,7 @@ What I want you to do is create a one page html file with some very basic conten
    * Select html5
 * create a file called index.html
 * put some html in here
-* put it bakc on github
+* put it back on github
     * on the tab called bash (the command line)
     * git add .
     * git commit -m "Initial commit"
