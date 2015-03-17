@@ -17,8 +17,14 @@ What I want you to do is create a one page html file with some very basic conten
 * create a file called index.html
 * put some html in here
 * put it back on github
-    * on the tab called bash (the command line)
-    * git add .
-    * git commit -m "Initial commit"
-    * git push
+    * type in the tab called bash (the command line) 
+    * you can use these steps every time you want to push changes to github
+
+> git add -A <br />
+> git commit -m \"Initial commit\" <br />
+> git push <br />
+
+
+* In about 30 minutes you will have a website at \<username\>.github.io
+    * example: type spaceotterinspace.github.io in the url bar
 * profit!!
