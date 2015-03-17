@@ -20,10 +20,11 @@ What I want you to do is create a one page html file with some very basic conten
     * type in the tab called bash (the command line) 
     * you can use these steps every time you want to push changes to github
 
-> git add -A <br />
-> git commit -m \"Initial commit\" <br />
-> git push <br />
+<b><b />
 
+    git add -A
+    git commit -m "Initial commit"
+    git push
 
 * In about 30 minutes you will have a website at \<username\>.github.io
     * example: type spaceotterinspace.github.io in the url bar
