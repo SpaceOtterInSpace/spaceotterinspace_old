@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Slack and You"
+date:   2015-03-17 09:39:03
+categories: projects
+---
+
+A cornerstone of becoming a good programmer is learning how to ask questions. Often times we cannot do this in a conversation as the person with the answer is only accessible online. Signing up for the slack channel will give you the opportunity to ask questions as you come accross them. So sign up. If you haven't gotten an invitation yet just request one.
