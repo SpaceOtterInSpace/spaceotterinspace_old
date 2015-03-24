@@ -9,8 +9,8 @@ What if I told you, you could have a website up and running within the hour that
 What I want you to do is create a one page html file with some very basic content.
 
 * Log into github 
-    * create a repository with the name \<username\>.github.io
-       * For example: spaceotterinspace.github.io
+    * create a repository with your github username \<username\>.github.io
+       * For example: my github username is spaceotterinspace and my repository name is spaceotterinspace.github.io
 * Log into cloud 9 with your github username
    * Choose the repository with the name you just created and clone to edit.
    * Select html5
