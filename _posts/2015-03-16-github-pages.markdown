@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "github pages"
+title:  "Github Pages"
 date:   2015-03-16 09:39:03
 categories: projects
 ---

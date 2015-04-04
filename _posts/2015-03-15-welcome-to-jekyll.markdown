@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Day 1"
-date:   2015-03-15 09:39:03
 categories: days
 ---
 * Create a [Github][github] account (free)
