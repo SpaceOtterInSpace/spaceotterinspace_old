@@ -3,4 +3,14 @@ layout: page
 title: About
 permalink: /about/
 ---
-Welcome to learning how to build websites. This blog is meant to put you on a path so that you can build a website yourself. There are so many ways to build websites and technologies to use that it can be overwhelming picking a place to get started. This blog is meant to help you navigate technology choices and beginning projects that it is possible for you to tackle yourself. I've put together a guide to a path for building websites. I have suggestions for technologies but most of the ones I have chosen have alternatives that are equally accpetable so feel free to use something else if you have a strong preference. I will not be able to assist in troubleshooting as much if you choose a technology I am not familiar with.
+Welcome! This is a group dedicated to helping people in New Orleans, particularly beginners, learn how to build and launch webistes themselves. 
+
+There are very few requirements to join this group but they do exist.
+
+1. You must bring a laptop
+* You must bring headphones
+* You must sign up for an online tutorial. 
+ * Codeschool is recommended but any tutorial focusing on webistes is welcome.
+* You must be working on an active website. 
+ * We can show you how to set up github pages for free if you don't have another project. In fact this website is run on github pages.
+
