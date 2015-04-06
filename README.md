@@ -1,0 +1,1 @@
+I used [Jekyll's Documentation](http://jekyllrb.com/docs/installation/) in making this blog. So clone it down then follow the directions there.
