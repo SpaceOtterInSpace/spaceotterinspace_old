@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "SSH Keys for Github"
+categories: instructions
+---
+
+* What is the purpose of the SSH Keys?
+    * To ensure that only the computers that you have approved can edit your github repositories. It means that you do not have to type your password in when you are on an approved computer.
+
+* Here is the link to install [SSH Keys for Github][SSH Keys for Github]
+
+
+<div style="float: right">
+  by Lila Mohamed
+</div>
+
+
+[SSH Keys for Github]: https://help.github.com/articles/generating-ssh-keys/
