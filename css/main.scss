@@ -4,99 +4,49 @@
 @charset "utf-8";
 
 
-@font-face {
-    font-family: 'Avengeance';
-    src: url('/assets/fonts/avengeance_heroic_avenger-webfont.eot');
-    src: url('/assets/fonts/avengeance_heroic_avenger-webfont.eot?#iefix') format('embedded-opentype'),
-         url('/assets/fonts/avengeance_heroic_avenger-webfont.woff2') format('woff2'),
-         url('/assets/fonts/avengeance_heroic_avenger-webfont.woff') format('woff'),
-         url('/assets/fonts/avengeance_heroic_avenger-webfont.ttf') format('truetype'),
-         url('/assets/fonts/avengeance_heroic_avenger-webfont.svg#avengeance_heroic_avengerRg') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
 
-@font-face {
-    font-family: 'Komika';
-    src: url('/assets/fonts/Komika_Hand-webfont.eot');
-    src: url('/assets/fonts/Komika_Hand-webfont.eot?#iefix') format('embedded-opentype'),
-         url('/assets/fonts/Komika_Hand-webfont.woff2') format('woff2'),
-         url('/assets/fonts/Komika_Hand-webfont.woff') format('woff'),
-         url('/assets/fonts/Komika_Hand-webfont.ttf') format('truetype'),
-         url('/assets/fonts/Komika_Hand-webfont.svg') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
+// Our variables
+$base-font-family: Helvetica, Arial, sans-serif;
+$base-font-size:   16px;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
 
-body {
-    background-image: url("/assets/images/carbon_fibre_big.png");
-    background-size: tile;
-    color: #f9f9f9;
-    font-family: "Arial", sans-serif;
-}
+$spacing-unit:     30px;
 
-section, footer {
-    width: 85%;
-    margin: 0px auto !important;
-}
+$text-color:       #111;
+$background-color: #fdfdfd;
+$brand-color:      #2a7ae2;
 
-a, a:visited {
-    color: #f9f9f9;
-    text-decoration: none;
-}
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
 
-h2, h3 {
-    font-family: Komika;
-    margin: 20px 0px;
-}
+// Width of the content area
+$content-width:    800px;
 
-#lightning_canvas {
-  pointer-events: none;
-}
+$on-palm:          600px;
+$on-laptop:        800px;
 
-.thor{
-  height: 300px;
-}
 
-.superhero-background {
-  width: 300px;
-  float: left;
-  background-size: 300px;
-  background-repeat: no-repeat;
-  background-position: center;
-}
 
-.clearfix {
-  overflow: auto;
-  zoom: 1;
-}
-
-h2 {
-    font-size: 1.8em;
-}
-
-h3 {
-    font-size: 1.5em;
-}
-
-p {
-    margin: 20px 0px;
-}
-
-section {
-    margin-top: 50px;
-
-    &:first-of-type {
-        margin-top: 0px;
+// Using media queries with like this:
+// @include media-query($on-palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
     }
 }
 
+
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        "header",
-        "splash",
-        "about",
-        "schedule",
-        "location",
-        "sponsors"
+        "base",
+        "layout",
+        "syntax-highlighting"
 ;
