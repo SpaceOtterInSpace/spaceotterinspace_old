@@ -1,0 +1,17 @@
+#location {
+    padding-top: 100px;
+
+    .maps {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+
+        img, iframe {
+            display: block;
+            border-radius: 10px;
+            margin: 20px;
+        }
+    }
+
+}
